@@ -4,12 +4,12 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 18,                             // <----------------------------- EDIT ME!
+  app_id: 2867,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
   app_name: 'Cryptodice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  recaptcha_sitekey: 'cryptodice69',  // <----- EDIT ME!
   redirect_uri: 'http://cryptoc0in.me/cryptodice',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
